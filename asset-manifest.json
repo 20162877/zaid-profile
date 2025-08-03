@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zaid-profile/static/css/main.3c133a6d.css",
+    "main.js": "/zaid-profile/static/js/main.e9abdf6a.js",
+    "static/js/453.e4f49290.chunk.js": "/zaid-profile/static/js/453.e4f49290.chunk.js",
+    "static/media/zaid.jpg": "/zaid-profile/static/media/zaid.455bd9c4ac2fb41e5f96.jpg",
+    "index.html": "/zaid-profile/index.html",
+    "main.3c133a6d.css.map": "/zaid-profile/static/css/main.3c133a6d.css.map",
+    "main.e9abdf6a.js.map": "/zaid-profile/static/js/main.e9abdf6a.js.map",
+    "453.e4f49290.chunk.js.map": "/zaid-profile/static/js/453.e4f49290.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c133a6d.css",
+    "static/js/main.e9abdf6a.js"
+  ]
+}
