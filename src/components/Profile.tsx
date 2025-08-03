@@ -19,6 +19,7 @@ const Profile: React.FC = () => (
         <li>DevOps (CI/CD, Docker, Kubernetes)</li>
         <li>Cloud (AWS, Azure)</li>
         <li>System Architecture & API Design</li>
+        <li>System Design & Design Pattern</li>
       </ul>
     </div>
     <div className="profile-links">

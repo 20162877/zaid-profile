@@ -1,0 +1,8 @@
+npm install --save gh-pages
+"homepage": "https://20162877.github.io/zaid-profile",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+
+npm run deploy
