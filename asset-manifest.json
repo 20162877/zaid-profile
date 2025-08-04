@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zaid-profile/static/css/main.430f7310.css",
+    "main.css": "/zaid-profile/static/css/main.1c952292.css",
     "main.js": "/zaid-profile/static/js/main.ab457008.js",
     "static/js/453.e4f49290.chunk.js": "/zaid-profile/static/js/453.e4f49290.chunk.js",
     "static/media/zaid.jpg": "/zaid-profile/static/media/zaid.455bd9c4ac2fb41e5f96.jpg",
     "index.html": "/zaid-profile/index.html",
-    "main.430f7310.css.map": "/zaid-profile/static/css/main.430f7310.css.map",
+    "main.1c952292.css.map": "/zaid-profile/static/css/main.1c952292.css.map",
     "main.ab457008.js.map": "/zaid-profile/static/js/main.ab457008.js.map",
     "453.e4f49290.chunk.js.map": "/zaid-profile/static/js/453.e4f49290.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.430f7310.css",
+    "static/css/main.1c952292.css",
     "static/js/main.ab457008.js"
   ]
 }
